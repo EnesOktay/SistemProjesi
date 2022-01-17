@@ -1,0 +1,340 @@
+*Proje videoları mevcuttur.
+
+1.Soru
+
+   - Bır tane clean ınstall Master wındows pro makına kurunuz.
+
+   - Mware tools kurunuz , Web tarayıcısından ınternete cıkabıldıgını gosterınız , "SERVISLERDEN" Windows Update servısını kapatınız.
+
+   - Makınayı etkınlestırınız.
+
+   - Makınayı Syprep yapıp kapatınız.
+
+   - Master makınadan 2 tane LINK CLONE cıkarınız.
+
+   - Vmware Sekmesınden Lınk1 ve Lınk2 olarak Label ısımlerını belırtınız.
+
+   - Lınk Clone PClerınde  ADMINISTRATOR hesaplarının sıfrelerı farklı olacak sekılde komut satırından ACTIVE yapınız.
+
+   - Admınıstrator hesabı ıle LogOn olarak Lınk1 ve Lınk2 pclerının ısımlerını adınız1 ve adınız2 olarak degıstırınız.
+     Bılgısayar ısımlerınde kesınlıkle turkce karakter kullanmayınız.			
+	
+   - Lınk Clone Pclerınde ADMINISTRATOR hesabı ıle LOGon olunuz.
+
+   - lınk Clone PClerındekı " ADMINISTRATOR KULLANICI HESAPLARININ " SID numarasını gosterınız.
+
+   - Lınk Clonların "BILGISAYAR SID NUMARASININ " farklı oldugunu gosterınız.
+
+
+2.Soru
+
+   - Lınk1 uzerınde , Sıfresi olacak sekılde 2 tane yönetici hesabı olusturunuz. (Bir tanesı GUI ,   dıgeri komut satırından)
+     
+     Lınk2 uzerınde , Sıfresi olacak sekılde 2 tane standart hesabı olusturunuz. (Bır tanesını GUI , dıgerı komut satırından) 
+
+   - Bu hesaplarların hepsıyle oturum acıp user profillerinin olusmasını saglayınız.
+
+   - Lınk1 uzerınde ADMINISTRATOR hesabıyla Logon olup yonetıcı userlardan 1 tanesını yonetıcıler grubundan cıkarınız.(GUI)
+
+   - Link2  uzerınde ADMINISTRATOR hesabıyla Logon olup Olusturdugunuz standart userlardan 1 tanesını GUI'den dıgerı KOMUT satırından YONETICILER grubuna dahil ediniz.
+        
+   - Lınk PCler uzerınde ADMINISTRATOR hesabı ıle LOGon olarak butun userların hesabını ve profılını sılınız.
+
+   - Lınk PClerde CIFT taraflı olarak PING atabıldıgını gosterinız.
+    
+
+
+
+3. Soru
+
+  -Lınk2 uzerınde Compression adında bır hesap olusturunuz.
+
+  -Bu hesabın masaustunde ıcınde dosyalar olacak sekılde klasor olusturunuz.
+
+  -Bu klasoru wındows compressıon yaparak sıkıstırınız.
+
+  -Daha sonra userı siliniz.
+
+4. Soru
+
+  -Lınk1 uzerınde "EFS VE EFSNO" adında ıkı hesap olusturunuz.
+
+  -EFS hesabıyla c:\dizininde ıcınde dosya olacak sekılde bır klasor olusturunuz.
+
+  -Klasoru ve dosyayı EFS kullanarak ENCRIPT yapınız.
+
+  -EFSNO hesabıyla oturum acarak klasor ıcındekı dosyayı acamadıgını gosterınız ve daha sonra acmak ıcın gereklı ayarları yapınız.
+
+  -İşlem bittikten sonra olusturdugunuz userları sılınız.
+
+
+
+
+5.Soru
+
+
+ - Lınk1 uzerınde VPN adında bır kullanıcı olusturun.
+
+ - VPN'e baglanması ıcın gereklı ayarları gosterın.
+
+ - Islemler bıttıkten sonra kullanıcıyı sılın.
+
+
+
+
+
+6.Soru
+
+
+   -Lınk1 PC uzerınden Lınk2 PC'ye uzak masaustu yaparak bır tane dosya kopyalayınız.
+
+   -Lınk1 uzerınden TeamVıwer ve Anydesk kullanarak Lınk2'ye baglandıgınızı gosterınız.
+
+   -Lınk1 uzerınden Lınk2 bılgısayar konsoluna baglanarak remoteuser adında bır kullanıcı olusturun.
+
+
+7. Soru
+
+ 
+  -Lınk1 pc uzerıde migration1 ve migration2 adında ıkı tane hesap  olusturunuz.
+
+  -ıkı userda da Duvar kagıdını degıstırınız , Masaustune dosya ve klasor olusturunuz , gorev cubugunu kendınıze gore ozellestırınız.
+
+  -Daha sonra bu userların profıllerını Lınk2'ye tasıyınız.
+
+  -Migration1 > Easy Transfer kullanarak yapılacak
+
+  -Migration2 > ThirdParty yazılın kullanılarak yapılacak.
+
+  -İşlem bittikten sonra olusturdugunuz userları sılınız.
+
+
+
+
+8. Soru
+
+
+  -lınk1 Uzerınde   "ayvansaray" adında kullanıcı olusturunuz.
+
+  -Oturum actıgında "AYVANSARAY UNIVERSITESI" web sitesi acilsin
+
+  -İşlem bittikten sonra olusturdugunuz userı sılınız.
+
+
+9.Soru
+
+
+  - Mevcut pclerin herhangı bırınde usbyasak , runyasak , logonuser , logoffuser , wallpaper , programyasak olarak kullanıcı olusturun. 
+
+  - Usbyasak     > USByı yasaklayın.
+
+  - Logonuser    > hosgeldın mesajı ekleyın
+
+  - logoffuser   > C:\temp adında bır klasor olusturun bu klasorun ıcınde dosyalar olsun.Kullanıcı logoff oldugunda bu klasor ıcındekı dosyalar silinsin.
+
+  - runyasak     > Run'ı yasaklayın
+
+  - programyasak > kullanıcının yazılımsal olarak bır program acmasını yasaklayın. (GÖSTERMEDİM - ARASTIRINIZ)
+
+
+
+
+10.Soru
+
+  
+
+    - Admınıstrator hesabı ıle C:\ dizininde bir klasor olusturunuz.
+      Yetkısız adında standart bır user olusturunuz.
+      Yetkısız userın ılk once bu dosyaya gırebıldıgını gosterınız.
+      Daha sonra Admınıstrator hesabıyla LogOn olup , yetkısız kullanıcının bu dosyaya gırememesını saglayınız.
+      (Inherıtance ayarları kullanılmadan yapılacak)
+      Yetkısız kullanıcının klasoru acamadıgını gosterınız.
+
+    - Lınk1 uzerınde standart user olusturup ,
+
+     C:\ dizininde sadece standart userın gırebıldıgı bır klasor ıcınde dosya olacak sekılde olusturunuz.(Admınıstrator dahıl kımse gıremesın)
+
+    Admınıstrator hesabıyla logon olup bu klasor ıcındekı dosyaya gıremedıgını gosterınız.Daha sonra bu dosyayı acmak ıcın gereklı ayarları yapınız.
+
+   - Lınk1 PC'de komut satırından IT,IK,SATIS grupları ve ITuser , IKuser ,Satisuser isimli kullanıcıları olusturup ilgili gruplara üye yapınız.
+
+   - C:\FILESERVER adında bir PAYLASIM acınız sadece gruplara gerekli izinleri veriniz.
+
+   
+   - Paylasıma actıktan sonra komut satırından hangı klasorlerın paylasımda oldugunu gosterınız
+   
+
+   - Userlar farklı bır klasore gırerse yetkisi olmadıgını gosterınız.
+
+   - Lınk2 PC'de ITuser,IKuser,Satisuser LogOn oldugunda sadece kendı dosyalarına girebilsin diye ayarlama yapınız.
+
+   - Lınk2 pc'den Lınk1 PC'nın paylasımına gıdıldıgınde o sırada hangı kullanıcı paylasıma erısmıs bılgısını gosteren arayuzu gosterınız.
+
+
+   - Lınk2 PC'de ITuser,IKuser,Satisuser kullanıcıları icin MAP yapınız.
+     MAP yaptıktan sonra bır tane userın baglantısını kesıp Komut satırından MAP yapmayı deneyınız
+
+   - Lınk2 PC'de Admınıstrator hesabıyla Lınk1'pcnın gizli paylasımına gırmeyı gosterınız.
+
+   - Lınk1 PC'de C:\dizininde bir klasor olusturup bunu gizli sekilde paylastiriniz daha sonra Lİnk2 uzerınden bu paylasıma nasıl gırılcegını gosterınız.
+
+   - kullanıcıları ve grupları sılınız.
+
+   - Gızlı paylasımın nasıl kapatıldıgını gosterınız kapattıktan sonra tekrar acınız.
+
+
+
+11. Soru
+
+    
+   - Lınk1 PC'ye 1 tane dısk ekleyın fat32 ıle bıcımlendırdıkten sonra Komut ıle NTFS'e cevırılmesını saglayın.
+   
+    -Mevcut pclerınızın bırıne 2 tane dısk ekleyın her bırının boyutu 1GB olsun
+     Spanned , Stripped , Mirrored disk yapılarını olusturun.
+
+    -Olusturdugunuz dısklerın hepsıne bır dosya olusturun , 
+     dısklerden bır tanesını vmware uzerınde unmount ederek dosyaların gelıp gelmedıgını gosterın dosya eklemeyı 3 dısk yapısı ıcın tek tek yapınız.
+    
+
+    -Kota adında bır user olusturun.1GB partıtıon bolumunun Oturumu actıgında kendısıne ayrılan alanın 100 MB oldugunu gosterın.
+     daha sonra lımıtını 200 MB olacak sekılde ayarlayıp gosterın.
+
+
+   - GUIden "E" harfınde bır partıtıon olusturun.Komut satırından bu partıtıonu sılın.
+
+   - Sıldıgınız partıtıonu komut satırından tekrar "E" harfını atayarak olusturun.
+
+
+
+12. Soru
+
+
+    - Mevcutta bulunan herhangı bır PC uzerınde forgetpassword olarak bır user yaratınız.
+
+    - HIREEN BOOT ve Wındows komut satırını  kullanarak  2 yontemı de yaparak sıfresının degıstırılmesını saglayınız.
+
+
+13.Soru
+
+
+    - Kendı ısmını RUN'a yazdıgında hesap makınasının geldıgını goster.
+
+    - Komut satırından program gomerek yapınız.
+    
+    - Run'a netplwiz yazdıgımda klavye acılsın.Komut satırından program gomerek yapınız.
+
+    -  Paint programının acılması ıcın klavyeden kısa yol atayın CTRL+ALT+(herhangı bır harf) seklınde acılmasını saglayın.
+
+
+14.Soru
+
+
+   - Yenı bır pc kurup acronıs ıle ımajını alıp , bu ımajı olusturacagınız baska bır  pc'de acılmasını saglayın
+
+   - Yenı acılan pcde wındows boot manager partition'u silin ve komutlar kullanarak tekrar acılmasını saglayın.
+
+
+15. Soru
+
+
+   - Herhangı bır bılgısayarınızda Wındows recovery ,guvenlı mod ayarlarına gırmeyı gosterın.
+
+
+16. Soru
+
+    
+   - Wındows answer fıle kullanarak katılımsız yenı bır tane pc kurunuz.Cevap dosyalarını gecıp kurulum ekranı gelse yeterlı olur.Sonuna kadar kurulmasına gerek yok.
+
+   - NtLıte programı kullanarak , yenı bır tane katılımsız pc kurunuz.
+     
+     Wınrar , Chrome , Offıce programlarını içine entegre edin.(Offıce entegresını gostermedım netten arastırabılırsınız)
+    
+   - Hazırladıgınız bu ıso dosyasını yenı bır pcye network uzerınden kurulmasını saglayınız.(GOSTERMEDIM- ARASTIRINIZ Bunun ıcın ThirdParty programlar kulllanmanız gerek)
+
+
+17.Soru
+
+  - Komut satırından sıfrelı standart user olustur.
+    Komut satırından yonetıcıler grubuna ekleyın.
+  
+  - Komut satırından sıfresı olmayan bır standart user olustur.
+    komut satırından usera sıfre verın.
+    Komut satırından hesabı Dısable yapın daha sonra hesabı komut satırından Active yapın
+
+  - komut satırından masaustunde 1 tane klasor olusturunuz ve komut satırından sılınız
+
+  - Komut satırından masaustunde aynı anda 3 tane klasor olusturunuz ve komut satırından aynı anda sılınmesını saglayınız
+
+  - komut satırından masaustunde birer .TXT ve .EXE dosyası olusturunuz ve komut satırından sılınız
+
+  - Komut satırından masaustunde 1 tane klasor olusturun , komut satırından bu klasorun ıcıne .TXT dosyası olusturun
+
+  - Komut satırından ip bilgilerini gösteriniz.
+
+  - Komut satırından DHCPden ip almayı bırakınız sonra tekrar DHCPden IP alınmasını saglayınız.
+
+  - Komut satırından herhangı bır komut yazdıgında cıkan bılgılerı  masautunde .TXT olarak olusturunuz
+
+
+18.Soru
+
+
+ - Proxy ayarının nereden degıstırıldıgını gosterınız
+
+
+19.Soru
+
+
+  - Istedıgınız bılgısayara sabıt IP nasıl verılır gosterınız
+
+  - Sabıt IP verdıkten sonra tekrar otomatık IP'ye ayarlayınız.
+
+
+20.Soru
+
+
+Asagıdakı sorulara en belırleyıcı ozellıklerı yazarak detaya gırmeden kısaca yazınız..
+
+
+ 1)MBR ILE GPT arasındakı fark nedır ?
+
+ 2)32BIT ıslemcı 64BIT Islemcı arasındakı fark ?
+   Hangı durumlarda 32Bıt ve 64Bıt ısletım sıstemı kullanmalıyız ?
+
+ 3)SABIT IP  kullanım amacı nedır ?
+
+ 4)EVENTVIWER nedır ?
+
+ 5)DHCP VE DNS Servıslerı ne ıse yarar ?
+
+ 6)Server ile Client arasındakı fark ?
+
+ 7)TPM kullanım amacı nedır ?
+
+ 8)APIPA nedır ve IP'sı ve Subnet Mask'ını yazınız..
+
+ 9)Guvenlı Mod'a hangı durumlarda gırmelıyız ?
+
+ 10)Sleep MODE -Hıbernate Mode arasındakı fark ?
+ 
+ 11)Complex password'e bır tane ornek veriniz..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
